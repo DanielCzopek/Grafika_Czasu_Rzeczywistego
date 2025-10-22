@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/s35912/Documents/GitHub/Grafika_Czasu_Rzeczywistego/GRAFCR/Content/NewMap.umap",
 				"D:/Projekty/Grafika_Czasu_Rzeczywistego/GRAFCR/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Modules/Meshes/SKM_Root_Template.uasset",
 				"D:/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content/Modules/Meshes/SKM_Biped_Template.uasset",
