@@ -2303,3 +2303,255 @@ Sampler Limit: 32
 [2025.10.29-12.26.08:306][501]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.29-12.26.08:306][501]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.29-12.26.08:307][501]AssetCheck: /Game/Lab03_Composition/Zadanie_01 Validating asset
+[2025.10.29-12.29.49:121][240]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3237.267090
+[2025.10.29-12.29.49:387][247]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.29-12.29.49:387][248]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3237.496826, Update Interval: 330.559418
+[2025.10.29-12.30.05:390][100]LogStreaming: Display: FlushAsyncLoading(453): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.29-12.30.05:393][100]LogStaticMesh: Display: Building static mesh GizmoArrowHandle (Required Memory Estimate: 0.208897 MB)...
+[2025.10.29-12.30.05:397][100]LogStaticMesh: Built static mesh [0.01s] /Engine/InteractiveToolsFramework/Meshes/GizmoArrowHandle.GizmoArrowHandle
+[2025.10.29-12.30.05:452][100]LogStaticMesh: Display: Building static mesh GizmoPlaneHandle (Required Memory Estimate: 0.080549 MB)...
+[2025.10.29-12.30.05:454][100]LogStaticMesh: Built static mesh [0.00s] /Engine/InteractiveToolsFramework/Meshes/GizmoPlaneHandle.GizmoPlaneHandle
+[2025.10.29-12.30.05:457][100]LogStaticMesh: Display: Building static mesh GizmoSphereHandle (Required Memory Estimate: 4.785744 MB)...
+[2025.10.29-12.30.05:474][100]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/InteractiveToolsFramework/Meshes/GizmoSphereHandle) ...
+[2025.10.29-12.30.05:481][100]LogStaticMesh: Built static mesh [0.02s] /Engine/InteractiveToolsFramework/Meshes/GizmoSphereHandle.GizmoSphereHandle
+[2025.10.29-12.30.05:492][100]LogStaticMesh: Display: Building static mesh GizmoQuarterCircleHandle (Required Memory Estimate: 0.364347 MB)...
+[2025.10.29-12.30.05:495][100]LogStaticMesh: Built static mesh [0.00s] /Engine/InteractiveToolsFramework/Meshes/GizmoQuarterCircleHandle.GizmoQuarterCircleHandle
+[2025.10.29-12.30.05:503][100]LogStaticMesh: Display: Building static mesh GizmoFullCircleHandle (Required Memory Estimate: 1.246918 MB)...
+[2025.10.29-12.30.05:512][100]LogStaticMesh: Built static mesh [0.01s] /Engine/InteractiveToolsFramework/Meshes/GizmoFullCircleHandle.GizmoFullCircleHandle
+[2025.10.29-12.30.05:521][100]LogStaticMesh: Display: Building static mesh GizmoBoxHandle (Required Memory Estimate: 0.080549 MB)...
+[2025.10.29-12.30.05:522][100]LogStaticMesh: Built static mesh [0.00s] /Engine/InteractiveToolsFramework/Meshes/GizmoBoxHandle.GizmoBoxHandle
+[2025.10.29-12.30.05:526][100]LogStaticMesh: Display: Building static mesh GizmoBoxArrowHandle (Required Memory Estimate: 0.230252 MB)...
+[2025.10.29-12.30.05:529][100]LogStaticMesh: Built static mesh [0.00s] /Engine/InteractiveToolsFramework/Meshes/GizmoBoxArrowHandle.GizmoBoxArrowHandle
+[2025.10.29-12.30.05:546][100]LogStaticMesh: Display: Building static mesh GizmoCornerHandle (Required Memory Estimate: 0.138775 MB)...
+[2025.10.29-12.30.05:548][100]LogStaticMesh: Built static mesh [0.01s] /Engine/InteractiveToolsFramework/Meshes/GizmoCornerHandle.GizmoCornerHandle
+[2025.10.29-12.30.10:574][322]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.29-12.30.10:577][322]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.29-12.30.11:492][367]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.10.29-12.30.27:363][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Lab03_Composition/_GENERATED/danie/Box_333DE4BB.Box_333DE4BB
+[2025.10.29-12.30.27:363][122]LogStaticMesh: Display: Building static mesh Box_333DE4BB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.29-12.30.27:365][122]LogStaticMesh: Built static mesh [0.00s] /Game/Lab03_Composition/_GENERATED/danie/Box_333DE4BB.Box_333DE4BB
+[2025.10.29-12.30.27:367][122]LogActorFactory: Actor Factory spawned StaticMesh /Game/Lab03_Composition/_GENERATED/danie/Box_333DE4BB.Box_333DE4BB as actor: StaticMeshActor /Game/Lab03_Composition/Zadanie_01.Zadanie_01:PersistentLevel.StaticMeshActor_94
+[2025.10.29-12.30.27:493][122]LogStreaming: Display: FlushAsyncLoading(464): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.29-12.30.33:591][432]LogInteractiveToolsContext: Display: Draw a polygon on the drawing plane, and extrude it. Left-click to place polygon vertices. Hold Shift to ignore snapping while drawing.
+[2025.10.29-12.30.38:792][690]LogInteractiveToolsContext: Display: Set the height of the extrusion by positioning the mouse over the extrusion volume, or over objects to snap to their heights. Hold Shift to ignore snapping.
+[2025.10.29-12.30.42:935][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Lab03_Composition/_GENERATED/danie/Extrude_30BB347F.Extrude_30BB347F
+[2025.10.29-12.30.42:935][875]LogStaticMesh: Display: Building static mesh Extrude_30BB347F (Required Memory Estimate: 0.027864 MB)...
+[2025.10.29-12.30.42:936][875]LogStaticMesh: Built static mesh [0.00s] /Game/Lab03_Composition/_GENERATED/danie/Extrude_30BB347F.Extrude_30BB347F
+[2025.10.29-12.30.42:938][875]LogActorFactory: Actor Factory spawned StaticMesh /Game/Lab03_Composition/_GENERATED/danie/Extrude_30BB347F.Extrude_30BB347F as actor: StaticMeshActor /Game/Lab03_Composition/Zadanie_01.Zadanie_01:PersistentLevel.StaticMeshActor_95
+[2025.10.29-12.30.43:014][875]LogInteractiveToolsContext: Display: Draw a polygon on the drawing plane, and extrude it. Left-click to place polygon vertices. Hold Shift to ignore snapping while drawing.
+[2025.10.29-12.30.48:343][133]LogInteractiveToolsContext: Display: Set the height of the extrusion by positioning the mouse over the extrusion volume, or over objects to snap to their heights. Hold Shift to ignore snapping.
+[2025.10.29-12.30.49:070][169]LogShaderCompilers: Display: ================================================
+[2025.10.29-12.30.49:070][169]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.29-12.30.49:070][169]LogShaderCompilers: Display: Total job queries 1 708, among them cache hits 502 (29.39%), DDC hits 1 037 (60.71%), Duplicates 86 (5.04%)
+[2025.10.29-12.30.49:070][169]LogShaderCompilers: Display: Tracking 1 120 distinct input hashes that result in 697 distinct outputs (62.23%)
+[2025.10.29-12.30.49:070][169]LogShaderCompilers: Display: RAM used: 8,33 MiB of 819,20 MiB budget. Usage: 1.02%
+[2025.10.29-12.30.49:070][169]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Shaders Compiled: 83
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Jobs assigned 83, completed 83 (100%)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Average time worker was idle: 223.49 s
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Time job spent in pending queue: average 0.71 s, longest 4.27 s
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Job execution time: average 3.62 s, max 43.62 s
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Job life time (pending + execution): average 4.33 s, max 43.72
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Shader code size: total 748,863 KiB, numShaders 88, average 8,51 KiB, min 2,637 KiB, max 28,704 KiB
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 73.28 s
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.17%
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Jobs were issued in 78 batches (only local compilation was used), average 1.06 jobs/batch
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Average processing rate: 1.13 jobs/sec
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Total thread time: 120,313 s
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Total thread preprocess time: 43,432 s
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Percentage time preprocessing: 36.10%
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Effective parallelization: 1.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.205232
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 4.11 sec, max 4.11 sec, min 4.11 sec)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 3.94 sec, max 3.94 sec, min 3.94 sec)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 3.32 sec, max 3.32 sec, min 3.32 sec)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    1 times, average 2.01 sec, max 2.01 sec, min 2.01 sec)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.79% of total time (compiled   21 times, average 1.42 sec, max 3.64 sec, min 0.74 sec)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.73% of total time (compiled   14 times, average 1.87 sec, max 3.73 sec, min 1.39 sec)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.58% of total time (compiled   11 times, average 0.94 sec, max 2.32 sec, min 0.53 sec)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.06% of total time (compiled    8 times, average 1.06 sec, max 2.79 sec, min 0.55 sec)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.45% of total time (compiled    4 times, average 1.04 sec, max 2.46 sec, min 0.50 sec)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: === Material stats ===
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Materials Translated:    168
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Material Total Translate Time: 0.29 s
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Material Translation Only: 0.14 s (49%)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: Material Cache Hits: 17 (10%)
+[2025.10.29-12.30.49:072][169]LogShaderCompilers: Display: ================================================
+[2025.10.29-12.30.51:068][272]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Lab03_Composition/_GENERATED/danie/Extrude_D160B520.Extrude_D160B520
+[2025.10.29-12.30.51:071][272]LogStaticMesh: Display: Building static mesh Extrude_D160B520 (Required Memory Estimate: 0.027864 MB)...
+[2025.10.29-12.30.51:072][272]LogStaticMesh: Built static mesh [0.00s] /Game/Lab03_Composition/_GENERATED/danie/Extrude_D160B520.Extrude_D160B520
+[2025.10.29-12.30.51:072][272]LogActorFactory: Actor Factory spawned StaticMesh /Game/Lab03_Composition/_GENERATED/danie/Extrude_D160B520.Extrude_D160B520 as actor: StaticMeshActor /Game/Lab03_Composition/Zadanie_01.Zadanie_01:PersistentLevel.StaticMeshActor_96
+[2025.10.29-12.30.51:145][272]LogInteractiveToolsContext: Display: Draw a polygon on the drawing plane, and extrude it. Left-click to place polygon vertices. Hold Shift to ignore snapping while drawing.
+[2025.10.29-12.30.59:594][644]LogInteractiveToolsContext: Display: Set the height of the extrusion by positioning the mouse over the extrusion volume, or over objects to snap to their heights. Hold Shift to ignore snapping.
+[2025.10.29-12.31.01:183][723]LogStaticMesh: Display: Building static mesh Extrude_7A8AD695 (Required Memory Estimate: 0.027864 MB)...
+[2025.10.29-12.31.01:183][723]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Lab03_Composition/_GENERATED/danie/Extrude_7A8AD695.Extrude_7A8AD695
+[2025.10.29-12.31.01:184][723]LogStaticMesh: Built static mesh [0.00s] /Game/Lab03_Composition/_GENERATED/danie/Extrude_7A8AD695.Extrude_7A8AD695
+[2025.10.29-12.31.01:187][723]LogActorFactory: Actor Factory spawned StaticMesh /Game/Lab03_Composition/_GENERATED/danie/Extrude_7A8AD695.Extrude_7A8AD695 as actor: StaticMeshActor /Game/Lab03_Composition/Zadanie_01.Zadanie_01:PersistentLevel.StaticMeshActor_97
+[2025.10.29-12.31.01:272][723]LogInteractiveToolsContext: Display: Draw a polygon on the drawing plane, and extrude it. Left-click to place polygon vertices. Hold Shift to ignore snapping while drawing.
+[2025.10.29-12.31.32:323][342]LogInteractiveToolsContext: Display: Drag the lattice control points to deform the mesh
+[2025.10.29-12.31.32:325][342]LogStreaming: Display: FlushAsyncLoading(465): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.29-12.31.55:802][478]LogStaticMesh: Display: Building static mesh Extrude_7A8AD695 (Required Memory Estimate: 0.027864 MB)...
+[2025.10.29-12.31.55:803][478]LogStaticMesh: Built static mesh [0.00s] /Game/Lab03_Composition/_GENERATED/danie/Extrude_7A8AD695.Extrude_7A8AD695
+[2025.10.29-12.31.57:778][582]LogStreaming: Display: FlushAsyncLoading(468): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.29-12.31.57:780][582]LogInteractiveToolsContext: Warning: 
+[2025.10.29-12.31.57:781][582]LogInteractiveToolsContext: Display: Subdivide and Displace the input mesh using different noise functions and maps
+[2025.10.29-12.32.05:449][931]LogStaticMesh: Display: Building static mesh Extrude_7A8AD695 (Required Memory Estimate: 0.477354 MB)...
+[2025.10.29-12.32.05:453][931]LogStaticMesh: Built static mesh [0.01s] /Game/Lab03_Composition/_GENERATED/danie/Extrude_7A8AD695.Extrude_7A8AD695
+[2025.10.29-12.32.08:722][ 90]LogInteractiveToolsContext: Warning: 
+[2025.10.29-12.32.08:722][ 90]LogInteractiveToolsContext: Display: Subdivide and Displace the input mesh using different noise functions and maps
+[2025.10.29-12.32.13:742][328]LogStaticMesh: Display: Building static mesh Box_333DE4BB (Required Memory Estimate: 0.477354 MB)...
+[2025.10.29-12.32.13:747][328]LogStaticMesh: Built static mesh [0.01s] /Game/Lab03_Composition/_GENERATED/danie/Box_333DE4BB.Box_333DE4BB
+[2025.10.29-12.32.18:242][560]LogInteractiveToolsContext: Warning: 
+[2025.10.29-12.32.18:243][560]LogInteractiveToolsContext: Display: Subdivide and Displace the input mesh using different noise functions and maps
+[2025.10.29-12.32.33:010][245]LogInteractiveToolsContext: Warning: 
+[2025.10.29-12.32.33:591][269]LogInteractiveToolsContext: Warning: 
+[2025.10.29-12.32.33:938][288]LogInteractiveToolsContext: Warning: 
+[2025.10.29-12.32.37:321][455]LogStaticMesh: Display: Building static mesh Extrude_30BB347F (Required Memory Estimate: 0.925535 MB)...
+[2025.10.29-12.32.37:326][455]LogStaticMesh: Built static mesh [0.01s] /Game/Lab03_Composition/_GENERATED/danie/Extrude_30BB347F.Extrude_30BB347F
+[2025.10.29-12.32.39:747][561]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.29-12.32.51:940][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-12.32.52:194][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.10.29-12.32.52:254][ 92]LogSavePackage: Moving output files for package: /Game/Lab03_Composition/Zadanie_01
+[2025.10.29-12.32.52:255][ 92]LogSavePackage: Moving '../../../../../Projekty/Grafika_Czasu_Rzeczywistego/GRAFCR/Saved/Zadanie_01E34E99994F662307A58A42B291393309.tmp' to '../../../../../Projekty/Grafika_Czasu_Rzeczywistego/GRAFCR/Content/Lab03_Composition/Zadanie_01.umap'
+[2025.10.29-12.32.52:271][ 92]LogFileHelpers: Saving map 'Zadanie_01' took 0.164
+[2025.10.29-12.32.52:294][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 354.107 ms (total: 3.99 sec)
+[2025.10.29-12.32.52:514][ 92]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.29-12.32.52:514][ 92]LogContentValidation: Enabled validators:
+[2025.10.29-12.32.52:515][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-12.32.52:515][ 92]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-12.32.52:515][ 92]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-12.32.52:515][ 92]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-12.32.52:515][ 92]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-12.32.52:515][ 92]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-12.32.52:515][ 92]AssetCheck: /Game/Lab03_Composition/Zadanie_01 Validating asset
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: ================================================
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: Total job queries 1 721, among them cache hits 507 (29.46%), DDC hits 1 037 (60.26%), Duplicates 87 (5.06%)
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: Tracking 1 127 distinct input hashes that result in 704 distinct outputs (62.47%)
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: RAM used: 8,40 MiB of 819,20 MiB budget. Usage: 1.03%
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: Shaders Compiled: 90
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: Jobs assigned 90, completed 90 (100%)
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: Average time worker was idle: 232.25 s
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: Time job spent in pending queue: average 0.66 s, longest 4.27 s
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: Job execution time: average 3.47 s, max 43.62 s
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: Job life time (pending + execution): average 4.13 s, max 43.72
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: Shader code size: total 833,844 KiB, numShaders 97, average 8,596 KiB, min 2,637 KiB, max 28,704 KiB
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 78.08 s
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.17%
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: Jobs were issued in 85 batches (only local compilation was used), average 1.06 jobs/batch
+[2025.10.29-12.33.49:072][438]LogShaderCompilers: Display: Average processing rate: 1.15 jobs/sec
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: Total thread time: 129,667 s
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: Total thread preprocess time: 43,86 s
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: Percentage time preprocessing: 33.83%
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: Effective parallelization: 1.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.207591
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 4.11 sec, max 4.11 sec, min 4.11 sec)
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 3.94 sec, max 3.94 sec, min 3.94 sec)
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 3.46 sec, max 3.46 sec, min 3.46 sec)
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display:                          FPathTracingVolumetricCloudMaterial (compiled    1 times, average 3.32 sec, max 3.32 sec, min 3.32 sec)
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    1 times, average 2.01 sec, max 2.01 sec, min 2.01 sec)
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.49% of total time (compiled   23 times, average 1.38 sec, max 3.64 sec, min 0.74 sec)
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.57% of total time (compiled   15 times, average 1.86 sec, max 3.73 sec, min 1.39 sec)
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.93% of total time (compiled   13 times, average 0.89 sec, max 2.32 sec, min 0.53 sec)
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display:                                                 FLumenCardPS - 6.55% of total time (compiled    8 times, average 1.06 sec, max 2.79 sec, min 0.55 sec)
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display:                                                  FVelocityPS - 4.54% of total time (compiled    5 times, average 1.18 sec, max 1.26 sec, min 1.05 sec)
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: === Material stats ===
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: Materials Translated:    171
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: Material Total Translate Time: 0.29 s
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: Material Translation Only: 0.14 s (49%)
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: Material Cache Hits: 17 (10%)
+[2025.10.29-12.33.49:073][438]LogShaderCompilers: Display: ================================================
+[2025.10.29-12.33.52:375][616]LogInteractiveToolsContext: Display: Create a new closed/solid shell mesh that wraps the input meshes. Holes will automatically be filled, controlled by the Winding Threshold. UVs, sharp edges, and small/thin features will be lost. Increase Voxel Count to enhance accuracy.
+[2025.10.29-12.33.52:387][616]LogStreaming: Display: FlushAsyncLoading(469): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.29-12.34.26:229][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.29-12.34.27:678][325]LogSlate: Window 'Save Content' being destroyed
+[2025.10.29-12.34.27:739][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.29-12.34.27:948][325]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lab03_Composition/_GENERATED/danie/Box_333DE4BB] ([1] browsable assets)...
+[2025.10.29-12.34.28:023][325]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Lab03_Composition/_GENERATED/danie/Box_333DE4BB.Box_333DE4BB]
+[2025.10.29-12.34.28:023][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lab03_Composition/_GENERATED/danie/Box_333DE4BB]
+[2025.10.29-12.34.28:046][325]LogSavePackage: Moving output files for package: /Game/Lab03_Composition/_GENERATED/danie/Box_333DE4BB
+[2025.10.29-12.34.28:046][325]LogSavePackage: Moving '../../../../../Projekty/Grafika_Czasu_Rzeczywistego/GRAFCR/Saved/Box_333DE4BB5FB5F01C4FB3E3AF40D36CA6B707CF87.tmp' to '../../../../../Projekty/Grafika_Czasu_Rzeczywistego/GRAFCR/Content/Lab03_Composition/_GENERATED/danie/Box_333DE4BB.uasset'
+[2025.10.29-12.34.28:050][325]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lab03_Composition/_GENERATED/danie/Extrude_30BB347F] ([1] browsable assets)...
+[2025.10.29-12.34.28:070][325]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Lab03_Composition/_GENERATED/danie/Extrude_30BB347F.Extrude_30BB347F]
+[2025.10.29-12.34.28:070][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lab03_Composition/_GENERATED/danie/Extrude_30BB347F]
+[2025.10.29-12.34.28:089][325]LogSavePackage: Moving output files for package: /Game/Lab03_Composition/_GENERATED/danie/Extrude_30BB347F
+[2025.10.29-12.34.28:089][325]LogSavePackage: Moving '../../../../../Projekty/Grafika_Czasu_Rzeczywistego/GRAFCR/Saved/Extrude_30BB347F738ECFB34A04674EC4F2D5A95AA2C4E1.tmp' to '../../../../../Projekty/Grafika_Czasu_Rzeczywistego/GRAFCR/Content/Lab03_Composition/_GENERATED/danie/Extrude_30BB347F.uasset'
+[2025.10.29-12.34.28:092][325]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lab03_Composition/_GENERATED/danie/Extrude_7A8AD695] ([1] browsable assets)...
+[2025.10.29-12.34.28:104][325]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Lab03_Composition/_GENERATED/danie/Extrude_7A8AD695.Extrude_7A8AD695]
+[2025.10.29-12.34.28:104][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lab03_Composition/_GENERATED/danie/Extrude_7A8AD695]
+[2025.10.29-12.34.28:123][325]LogSavePackage: Moving output files for package: /Game/Lab03_Composition/_GENERATED/danie/Extrude_7A8AD695
+[2025.10.29-12.34.28:124][325]LogSavePackage: Moving '../../../../../Projekty/Grafika_Czasu_Rzeczywistego/GRAFCR/Saved/Extrude_7A8AD6955C22BBA9471801B0FC7C388D40462889.tmp' to '../../../../../Projekty/Grafika_Czasu_Rzeczywistego/GRAFCR/Content/Lab03_Composition/_GENERATED/danie/Extrude_7A8AD695.uasset'
+[2025.10.29-12.34.28:125][325]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Lab03_Composition/_GENERATED/danie/Extrude_D160B520] ([1] browsable assets)...
+[2025.10.29-12.34.28:138][325]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Lab03_Composition/_GENERATED/danie/Extrude_D160B520.Extrude_D160B520]
+[2025.10.29-12.34.28:138][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/Lab03_Composition/_GENERATED/danie/Extrude_D160B520]
+[2025.10.29-12.34.28:162][325]LogSavePackage: Moving output files for package: /Game/Lab03_Composition/_GENERATED/danie/Extrude_D160B520
+[2025.10.29-12.34.28:162][325]LogSavePackage: Moving '../../../../../Projekty/Grafika_Czasu_Rzeczywistego/GRAFCR/Saved/Extrude_D160B5206E7EC19D4FDBFA1B2C45CBB1B384FEFD.tmp' to '../../../../../Projekty/Grafika_Czasu_Rzeczywistego/GRAFCR/Content/Lab03_Composition/_GENERATED/danie/Extrude_D160B520.uasset'
+[2025.10.29-12.34.28:189][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 450.786 ms (total: 4.44 sec)
+[2025.10.29-12.34.28:295][325]LogStall: Shutdown...
+[2025.10.29-12.34.28:296][325]LogStall: Shutdown complete.
+[2025.10.29-12.34.28:347][325]LogSlate: Window 'GRAFCR - Unreal Editor' being destroyed
+[2025.10.29-12.34.28:350][325]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2025.10.29-12.34.28:938][325]LogContentValidation: Display: Starting to validate 4 assets
+[2025.10.29-12.34.28:938][325]LogContentValidation: Enabled validators:
+[2025.10.29-12.34.28:938][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.29-12.34.28:939][325]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.29-12.34.28:939][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.29-12.34.28:939][325]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.29-12.34.28:939][325]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.29-12.34.28:939][325]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.29-12.34.28:939][325]AssetCheck: /Game/Lab03_Composition/_GENERATED/danie/Box_333DE4BB Validating asset
+[2025.10.29-12.34.28:939][325]AssetCheck: /Game/Lab03_Composition/_GENERATED/danie/Extrude_30BB347F Validating asset
+[2025.10.29-12.34.28:939][325]AssetCheck: /Game/Lab03_Composition/_GENERATED/danie/Extrude_7A8AD695 Validating asset
+[2025.10.29-12.34.28:939][325]AssetCheck: /Game/Lab03_Composition/_GENERATED/danie/Extrude_D160B520 Validating asset
+[2025.10.29-12.34.28:942][325]Cmd: QUIT_EDITOR
+[2025.10.29-12.34.28:943][325]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.29-12.34.28:950][325]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Projekty/Grafika_Czasu_Rzeczywistego/GRAFCR/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.29-12.34.28:969][326]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.29-12.34.28:971][326]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.29-12.34.28:971][326]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.29-12.34.28:980][326]LogWorld: UWorld::CleanupWorld for Zadanie_01, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-12.34.28:987][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-12.34.29:016][326]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.29-12.34.29:019][326]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.29-12.34.29:027][326]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.29-12.34.29:054][326]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-12.34.29:054][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-12.34.29:055][326]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-12.34.29:055][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-12.34.29:059][326]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.29-12.34.29:059][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.29-12.34.29:071][326]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.29-12.34.29:072][326]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.29-12.34.29:080][326]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.29-12.34.29:097][326]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.29-12.34.29:097][326]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.29-12.34.29:097][326]LogAudio: Display: Audio Device unregistered from world 'Zadanie_01'.
+[2025.10.29-12.34.29:098][326]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.29-12.34.29:104][326]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.29-12.34.29:115][326]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.29-12.34.29:152][326]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.29-12.34.29:152][326]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.29-12.34.29:201][326]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.29-12.34.29:205][326]LogExit: Preparing to exit.
+[2025.10.29-12.34.29:348][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.29-12.34.30:572][326]LogEditorDataStorage: Deinitializing
+[2025.10.29-12.34.30:774][326]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [D:/Projekty/Grafika_Czasu_Rzeczywistego/GRAFCR/Content/]. Aborting watch request...
+[2025.10.29-12.34.30:815][326]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.29-12.34.30:955][326]LogExit: Editor shut down
+[2025.10.29-12.34.30:970][326]LogExit: Transaction tracking system shut down
+[2025.10.29-12.34.31:783][326]LogExit: Object subsystem successfully closed.
+[2025.10.29-12.34.31:902][326]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.29-12.34.32:244][326]LogMemoryProfiler: Shutdown
+[2025.10.29-12.34.32:246][326]LogNetworkingProfiler: Shutdown
+[2025.10.29-12.34.32:246][326]LoadingProfiler: Shutdown
+[2025.10.29-12.34.32:247][326]LogTimingProfiler: Shutdown
+[2025.10.29-12.34.32:253][326]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.29-12.34.32:253][326]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
